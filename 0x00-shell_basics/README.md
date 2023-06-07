@@ -13,3 +13,9 @@
 12. file - prints the type of file
 13. ln -s -creats a symbolic link
 14. cp -u*.html -copies specific files ending with .html
+15. mv [[:upper:]]*  -moves all files beginning with an upper case
+16. rm *~ deletes all files ending with ~
+17. mkdir -p creates directories and subdirectories in present working directory
+18. ls -xamp -lists all the files and directories of the current directory, separated by commas (,).
+19. 0 string <string name>  <name of file> data
+    !:mime <name of file>  -creates a magic file with an iput
