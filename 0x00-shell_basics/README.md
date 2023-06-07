@@ -3,3 +3,4 @@
 2. cd - -Changes directory to user's home directory
 3. ls -l -disply contents in long format
 4. ls-la -display hidden content in long format
+5. ls -al -Display current directory contents
